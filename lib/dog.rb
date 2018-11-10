@@ -10,3 +10,8 @@ end
 
 def breed=(breed)
   @breed = "Beagle"
+end
+
+def breed
+  breed = "Beagle"
+end
