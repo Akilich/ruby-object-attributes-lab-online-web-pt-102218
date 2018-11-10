@@ -7,3 +7,6 @@ class Dog
     name = "Fido"
   end
 end
+
+def breed=(breed)
+  @breed
