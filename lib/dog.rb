@@ -13,3 +13,5 @@ def breed
   breed = "Beagle"
   end
 end
+
+def name=(name)
